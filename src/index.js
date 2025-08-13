@@ -1,4 +1,4 @@
-// Worker v7 — DIRECT + PROXY + analytics blocker + URL rewriter (anchors/aggressive)
+// Worker v8 — DIRECT + PROXY + analytics blocker + URL rewriter (anchors/aggressive)
 const SERVERS = new Set([
   ...Array.from({ length: 20 }, (_, i) => `us${i + 1}`),
   ...Array.from({ length: 20 }, (_, i) => `eu${i + 1}`),
