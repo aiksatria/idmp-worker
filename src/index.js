@@ -4,7 +4,7 @@ const SERVERS = new Set([
   ...Array.from({ length: 20 }, (_, i) => `eu${i + 1}`),
 ]);
 
-// ---------- utils ----------
+// ---------- utils --------
 function buildWrapperLink(currentReqUrl, absoluteTargetUrl) {
   const cur = new URL(currentReqUrl);
   const pairs = [];
