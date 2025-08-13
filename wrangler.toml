@@ -1,4 +1,4 @@
-name = "idmp"                 # harus sama persis dg nama worker kamu
+name = "idmp"                 # harus sama persis dg nama worker
 main = "src/index.js"
 compatibility_date = "2025-08-13"
 account_id = "d87657a3f4ebe680003df53e6d9fae7b"
